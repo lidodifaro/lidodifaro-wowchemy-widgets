@@ -1,3 +1,3 @@
-module github.com/knoester-it/wowchemy-widget-owncontact
+module github.com/lidodifaro/lidodifaro-wowchemy-widgets
 
 go 1.15
